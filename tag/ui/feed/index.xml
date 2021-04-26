@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ui &#8211; Kanchon Gharami</title>
+	<atom:link href="https://kanchon-gharami.github.io/portfolio/tag/ui/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kanchon-gharami.github.io/portfolio</link>
+	<description>Tech Enthusiast</description>
+	<lastBuildDate>Fri, 06 Apr 2018 10:37:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Best Practices for Animated Progress Indicators</title>
+		<link>https://kanchon-gharami.github.io/portfolio/2018/04/06/best-practices-for-animated-progress-indicators/</link>
+					<comments>https://kanchon-gharami.github.io/portfolio/2018/04/06/best-practices-for-animated-progress-indicators/#respond</comments>
+		
+		<dc:creator><![CDATA[kanchon]]></dc:creator>
+		<pubDate>Fri, 06 Apr 2018 10:36:29 +0000</pubDate>
+				<category><![CDATA[UI]]></category>
+		<category><![CDATA[animate]]></category>
+		<category><![CDATA[bar]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[progress]]></category>
+		<category><![CDATA[ui]]></category>
+		<guid isPermaLink="false">https://kanchon-gharami.github.io/portfolio/?p=105</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb0eca9" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p>Nulla nulla nisl, sodales ac nulla ac, consequat vulputate purus. Curabitur tincidunt ipsum vel nibh rutrum accumsan. Nunc ullamcorper posuere leo, vitae aliquet risus pharetra in. Integer turpis eros, iaculis et mi non, pulvinar egestas leo. Etiam sagittis ex turpis, vitae cursus tortor interdum eu. Quisque ultrices nunc eget erat vestibulum euismod. Ut mauris nisi, facilisis at arcu nec, facilisis porttitor lorem.</p><p>Vivamus vitae neque molestie, porta libero sed, tincidunt leo. In nec posuere odio, id rhoncus lorem. Proin id erat ut dolor condimentum viverra. Praesent viverra sed dolor ac luctus. Praesent placerat id lorem quis lacinia.</p>	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb0f0f2" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<blockquote class="quote fw-quote-left fw-quote-md ">
+    Maecenas id finibus felis. Etiam vitae nibh et felis efficitur pellentesque. Mauris suscipit sapien nunc, a lacinia nibh feugiat ut. In hac habitasse platea dictumst.			<footer class="quote-author">
+			<span>
+									Larry L. Johnson							</span>
+		</footer>
+	</blockquote>	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb0f881" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p>Etiam interdum vulputate risus, vitae elementum neque consectetur sed. Donec at risus dui. Ut in suscipit neque. Vestibulum sit amet lobortis magna, commodo venenatis ante. Cras molestie, ex a auctor lacinia, risus est aliquam risus, sit amet semper purus tortor id ante. Donec lacus ipsum, porttitor et libero a, fringilla auctor quam. Sed in nisl id libero tincidunt aliquet. Aenean dui ipsum, auctor ut leo ut, semper dignissim lacus. Suspendisse faucibus viverra consequat. Maecenas efficitur massa vel eros sagittis dapibus. Nam lobortis mi in turpis hendrerit eleifend. Nulla non massa felis.</p><p>Donec sit amet dolor ante. Vivamus vel massa accumsan, faucibus quam quis, convallis velit. Aliquam erat volutpat. Integer imperdiet diam quis arcu venenatis, quis sagittis nibh rhoncus. Donec non nisi scelerisque, sodales metus quis, accumsan mauris. Curabitur volutpat risus rutrum erat condimentum tristique. Nullam at felis diam. Quisque dictum felis non ante pretium mollis. Aliquam turpis neque, varius nec diam a, aliquam pulvinar diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed ipsum libero, aliquet sed bibendum faucibus, semper a dui.</p>	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kanchon-gharami.github.io/portfolio/2018/04/06/best-practices-for-animated-progress-indicators/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Designing the Perfect Feature Comparison Table</title>
+		<link>https://kanchon-gharami.github.io/portfolio/2018/04/06/designing-the-perfect-feature-comparison-table/</link>
+					<comments>https://kanchon-gharami.github.io/portfolio/2018/04/06/designing-the-perfect-feature-comparison-table/#respond</comments>
+		
+		<dc:creator><![CDATA[kanchon]]></dc:creator>
+		<pubDate>Fri, 06 Apr 2018 10:31:57 +0000</pubDate>
+				<category><![CDATA[E-Commerce]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[table]]></category>
+		<category><![CDATA[ui]]></category>
+		<category><![CDATA[ux]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">https://kanchon-gharami.github.io/portfolio/?p=102</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb10d5d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p>In non arcu turpis. Pellentesque ornare tortor at condimentum pulvinar. Vivamus ultrices nisi sed est scelerisque, vel suscipit libero luctus. Cras magna nulla, suscipit in vulputate a, consequat egestas sem. Ut commodo eget velit nec egestas. Donec porta lorem vel neque varius aliquet. Nam convallis lacus ac lectus posuere bibendum. Sed sollicitudin nulla vel urna efficitur tempus. In et vehicula velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis feugiat, urna in ultricies vulputate, massa odio finibus justo, non luctus leo ligula at sem. Etiam lobortis leo eu efficitur ultrices. In sollicitudin nisi non ante consequat porttitor. Phasellus ornare dignissim nisi sed consectetur.</p>	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb1129b" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<blockquote class="quote fw-quote-left fw-quote-md ">
+    Integer semper leo velit, ac accumsan diam sollicitudin in. Etiam feugiat faucibus rhoncus. Vivamus mollis vitae purus in malesuada. Donec at nibh metus.			<footer class="quote-author">
+			<span>
+									Chester J. Albin							</span>
+		</footer>
+	</blockquote>	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb117d4" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p>Pellentesque iaculis eget justo semper posuere. Duis vitae felis sed odio faucibus pulvinar vel eu est. Fusce pretium eu mauris eu ultricies. Curabitur hendrerit, risus sit amet ullamcorper sollicitudin, ex urna auctor quam, in tincidunt sapien justo sit amet ante. Donec enim lacus, pulvinar eu nulla rhoncus, porttitor volutpat nunc. Morbi ac dignissim orci, nec iaculis magna. Ut commodo nisi tellus, quis lacinia metus viverra vel. Vivamus ut neque elementum diam tempor mattis.</p><p>Integer dapibus sapien massa, in mattis magna commodo id. Vivamus tempor ullamcorper auctor. Aenean non bibendum magna, quis tempor ligula. Donec viverra lobortis libero, non feugiat nulla vehicula id. Ut posuere tellus in gravida ullamcorper. Nulla ut pellentesque velit. Mauris scelerisque auctor convallis. Sed tincidunt finibus est, nec convallis sem placerat eget. Donec tempor mauris vitae libero ultrices, a porta ex commodo. Quisque quis magna elit. Proin semper tellus quis orci tempor, porttitor lobortis nisi auctor. Phasellus turpis diam, commodo vel sagittis ac, lacinia vitae ex. Integer lacinia dapibus euismod. Integer bibendum nulla nec tincidunt consequat. Sed vel gravida risus. Cras lacinia tortor purus, vel vulputate velit rhoncus sed.</p><p>Maecenas id finibus felis. Etiam vitae nibh et felis efficitur pellentesque. Mauris suscipit sapien nunc, a lacinia nibh feugiat ut. In hac habitasse platea dictumst. Fusce eu finibus urna, sit amet ornare enim. Vivamus consectetur ex urna, sit amet venenatis risus tincidunt eu. In eu dapibus justo. Suspendisse pulvinar fringilla ante non vehicula. Suspendisse nec cursus orci. Donec enim augue, ultrices ornare laoreet sed, facilisis sit amet nunc. Vestibulum fringilla orci eu enim porttitor facilisis. Donec dapibus malesuada tortor, imperdiet dapibus quam tempor eu. Vivamus sed viverra augue.</p>	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kanchon-gharami.github.io/portfolio/2018/04/06/designing-the-perfect-feature-comparison-table/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Creative and Innovative Navigation Designs</title>
+		<link>https://kanchon-gharami.github.io/portfolio/2018/04/06/creative-and-innovative-navigation-designs/</link>
+					<comments>https://kanchon-gharami.github.io/portfolio/2018/04/06/creative-and-innovative-navigation-designs/#respond</comments>
+		
+		<dc:creator><![CDATA[kanchon]]></dc:creator>
+		<pubDate>Fri, 06 Apr 2018 09:59:12 +0000</pubDate>
+				<category><![CDATA[UI]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[menu]]></category>
+		<category><![CDATA[ui]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[vimeo]]></category>
+		<category><![CDATA[youtube]]></category>
+		<guid isPermaLink="false">https://kanchon-gharami.github.io/portfolio/?p=86</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb12c8a" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p>Etiam interdum vulputate risus, vitae elementum neque consectetur sed. Donec at risus dui. Ut in suscipit neque. Vestibulum sit amet lobortis magna, commodo venenatis ante. Cras molestie, ex a auctor lacinia, risus est aliquam risus, sit amet semper purus tortor id ante. Donec lacus ipsum, porttitor et libero a, fringilla auctor quam. Sed in nisl id libero tincidunt aliquet. Aenean dui ipsum, auctor ut leo ut, semper dignissim lacus. Suspendisse faucibus viverra consequat. Maecenas efficitur massa vel eros sagittis dapibus. Nam lobortis mi in turpis hendrerit eleifend. Nulla non massa felis.</p><p>Donec sit amet dolor ante. Vivamus vel massa accumsan, faucibus quam quis, convallis velit. Aliquam erat volutpat. Integer imperdiet diam quis arcu venenatis, quis sagittis nibh rhoncus. Donec non nisi scelerisque, sodales metus quis, accumsan mauris. Curabitur volutpat risus rutrum erat condimentum tristique. Nullam at felis diam. Quisque dictum felis non ante pretium mollis. Aliquam turpis neque, varius nec diam a, aliquam pulvinar diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed ipsum libero, aliquet sed bibendum faucibus, semper a dui.</p>	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-6086fdbb13108" class="fw-col-inner" data-paddings="0px 0px 30px 0px">
+		                    <div class="embed-video embed-responsive embed-responsive-16by9  embed-vimeo-video embed-lazy-video" data-embed="https://player.vimeo.com/video/158284739"> 
+            <div class="play-button"></div>   
+        </div>
+            	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-6086fdbb13742" class="fw-col-inner" data-paddings="0px 0px 30px 0px">
+		                    <div class="embed-video embed-responsive embed-responsive-16by9  embed-youtube-video embed-lazy-video" data-embed="https://www.youtube.com/embed/bg0gv2YpIok"> 
+            <div class="play-button"></div>   
+        </div>
+            	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb13db3" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p>Cras commodo, nulla a commodo sodales, nisl mauris interdum lectus, ac mattis lacus purus ut nunc. Fusce volutpat aliquam euismod. Aliquam pulvinar neque turpis, in tincidunt mi varius et. Curabitur vitae tempus mauris, porta dictum ante. Nam pellentesque et mauris a suscipit. Vivamus gravida erat nec elit ullamcorper, quis laoreet metus efficitur. Duis vulputate, mauris a auctor pretium, elit nisl eleifend nulla, non accumsan augue massa quis tellus. Aliquam at justo libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vestibulum mauris condimentum ultrices scelerisque. Fusce pulvinar cursus luctus. Cras dapibus placerat magna, quis euismod nisi consequat euismod. Curabitur finibus nisi at justo ultricies, nec congue metus rutrum. Quisque vulputate sollicitudin aliquam. Curabitur posuere auctor dapibus.</p><p>Mauris lectus dolor, varius ut imperdiet nec, dignissim nec ligula. Cras posuere odio et finibus accumsan. Mauris in sem non arcu consectetur posuere sed quis justo. Sed turpis mauris, aliquet ac lacus nec, tempor condimentum justo. Praesent tristique enim et augue tincidunt, in accumsan nisi egestas. Cras bibendum elit eget volutpat consectetur. Vestibulum sit amet posuere velit, ut rhoncus lorem. Mauris sit amet ultricies justo. Curabitur ut placerat libero, ut tempus eros. Quisque venenatis eu mi eget imperdiet. Fusce vitae tellus dui. Curabitur tristique pharetra justo, vel posuere dolor luctus vel. Quisque in arcu sagittis, sollicitudin nulla in, aliquet turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec eros lorem, euismod ut nulla ut, congue molestie elit. Quisque ex augue, finibus ut fermentum vel, molestie eget nulla.</p>	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb14388" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<blockquote class="quote fw-quote-left fw-quote-lg ">
+    Phasellus volutpat congue augue, a tincidunt velit consequat pulvinar. Proin pharetra, tortor sed efficitur egestas, massa lorem eleifend tortor, eget interdum dolor neque vitae dui. Etiam vitae pharetra justo. Sed dictum vulputate cursus. Nulla consectetur purus in interdum interdum.			<footer class="quote-author">
+			<span>
+									John T. Talley							</span>
+		</footer>
+	</blockquote>	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb1495e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p>Integer dapibus sapien massa, in mattis magna commodo id. Vivamus tempor ullamcorper auctor. Aenean non bibendum magna, quis tempor ligula. Donec viverra lobortis libero, non feugiat nulla vehicula id. Ut posuere tellus in gravida ullamcorper. Nulla ut pellentesque velit. Mauris scelerisque auctor convallis. Sed tincidunt finibus est, nec convallis sem placerat eget. Donec tempor mauris vitae libero ultrices, a porta ex commodo. Quisque quis magna elit. Proin semper tellus quis orci tempor, porttitor lobortis nisi auctor. Phasellus turpis diam, commodo vel sagittis ac, lacinia vitae ex. Integer lacinia dapibus euismod. Integer bibendum nulla nec tincidunt consequat. Sed vel gravida risus. Cras lacinia tortor purus, vel vulputate velit rhoncus sed.</p>	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kanchon-gharami.github.io/portfolio/2018/04/06/creative-and-innovative-navigation-designs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>6 Easy Steps to Better Icon Design</title>
+		<link>https://kanchon-gharami.github.io/portfolio/2018/04/06/6-easy-steps-to-better-icon-design/</link>
+					<comments>https://kanchon-gharami.github.io/portfolio/2018/04/06/6-easy-steps-to-better-icon-design/#respond</comments>
+		
+		<dc:creator><![CDATA[kanchon]]></dc:creator>
+		<pubDate>Fri, 06 Apr 2018 09:45:19 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[icon]]></category>
+		<category><![CDATA[ui]]></category>
+		<category><![CDATA[ux]]></category>
+		<guid isPermaLink="false">https://kanchon-gharami.github.io/portfolio/?p=82</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb15f7c" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p>Phasellus volutpat congue augue, a tincidunt velit consequat pulvinar. Proin pharetra, tortor sed efficitur egestas, massa lorem eleifend tortor, eget interdum dolor neque vitae dui. Etiam vitae pharetra justo. Sed dictum vulputate cursus. Nulla consectetur purus in interdum interdum. Donec ornare dui mi, vitae consectetur ex tempor ut. Aliquam ultricies tristique arcu, laoreet elementum nunc tristique ac. Mauris condimentum hendrerit neque sit amet egestas. Vivamus lacus ante, pharetra in placerat eget, vehicula eget turpis. Quisque auctor leo tortor, quis porttitor metus condimentum nec.</p><p>Pellentesque semper orci enim, at dapibus arcu fringilla vitae. Praesent sit amet consequat lorem. Sed elit odio, aliquet eget elementum sit amet, sodales ut massa. Phasellus eget velit facilisis, viverra urna id, finibus est. Pellentesque convallis et elit a faucibus. Suspendisse luctus mollis porta. Morbi hendrerit ex turpis, sed consectetur nunc lacinia nec. Praesent vitae viverra tellus, a pretium velit.</p>	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb1652a" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<blockquote class="quote fw-quote-left fw-quote-md ">
+    In non arcu turpis. Pellentesque ornare tortor at condimentum pulvinar. Vivamus ultrices nisi sed est scelerisque, vel suscipit libero luctus. Cras magna nulla, suscipit in vulputate a, consequat egestas sem. Ut commodo eget velit nec egestas. Donec porta lorem vel neque varius aliquet. Nam convallis lacus ac lectus posuere bibendum.			<footer class="quote-author">
+			<span>
+									John G. Koss							</span>
+		</footer>
+	</blockquote>	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdbb16b2e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p>Ut vel tincidunt felis. Morbi semper ullamcorper quam, mollis elementum velit. Quisque quis mauris vitae sapien malesuada fermentum et ac neque. Mauris vulputate ut urna eu molestie. Proin id cursus turpis. Aenean ullamcorper urna a quam finibus porta. Praesent scelerisque sagittis lectus. Sed imperdiet lectus eget ex pellentesque aliquet. Aenean pellentesque magna sit amet diam rhoncus tempus. Vestibulum quis augue eu elit suscipit accumsan eu mattis ligula. Vivamus venenatis lacus at ultricies vulputate. Aliquam auctor pretium purus varius feugiat. Fusce sit amet urna leo. Vestibulum nec arcu id enim laoreet venenatis vel quis purus. Nulla congue, leo id semper sollicitudin, metus nulla mollis ex, id volutpat lorem eros et nunc. Suspendisse potenti.</p><p>Donec elementum dui vitae vulputate congue. Sed sed semper erat. Mauris molestie, sem et imperdiet sodales, tellus massa mattis mauris, sit amet facilisis dolor lacus sed orci. Sed aliquam placerat viverra. Etiam commodo libero felis, eget hendrerit nibh pharetra ac. Vestibulum turpis est, vestibulum at neque id, interdum vulputate lorem. Phasellus lobortis vulputate varius. Donec tincidunt massa id tempus interdum. Etiam id sem sit amet mauris consectetur vulputate quis in libero. In interdum enim tempus, egestas dolor bibendum, condimentum dui. Pellentesque nec erat orci. Duis neque dui, posuere mattis risus eu, dictum hendrerit velit. Vivamus iaculis lectus ut consectetur fringilla.</p><p>Etiam rutrum diam mi, eu tempor urna feugiat a. Maecenas luctus sem nec nisl congue, eget finibus justo bibendum. In id commodo enim. Donec vehicula interdum tortor, laoreet pretium erat ultrices sed. Donec id aliquam tortor. Etiam pellentesque diam a magna rutrum placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur mi ligula, sagittis et metus eu, scelerisque consequat lectus.</p>	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kanchon-gharami.github.io/portfolio/2018/04/06/6-easy-steps-to-better-icon-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

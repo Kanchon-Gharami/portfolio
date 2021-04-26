@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WordPress &#8211; Kanchon Gharami</title>
+	<atom:link href="https://kanchon-gharami.github.io/portfolio/category/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kanchon-gharami.github.io/portfolio</link>
+	<description>Tech Enthusiast</description>
+	<lastBuildDate>Fri, 06 Apr 2018 09:18:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>How to Make a WordPress Plugin Extensible</title>
+		<link>https://kanchon-gharami.github.io/portfolio/2018/04/06/how-to-make-a-wordpress-plugin-extensible/</link>
+					<comments>https://kanchon-gharami.github.io/portfolio/2018/04/06/how-to-make-a-wordpress-plugin-extensible/#respond</comments>
+		
+		<dc:creator><![CDATA[kanchon]]></dc:creator>
+		<pubDate>Fri, 06 Apr 2018 09:16:06 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[plugin]]></category>
+		<guid isPermaLink="false">https://kanchon-gharami.github.io/portfolio/?p=79</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdc0e51f9" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus lorem a turpis feugiat, et porttitor leo dapibus. In ut tincidunt lectus, id hendrerit enim. Maecenas at nibh eu nulla dignissim posuere. Nullam viverra vitae elit a tempus. Donec quis eleifend eros. Donec imperdiet nisi mi, in ultricies risus porta ac. Nullam laoreet convallis nibh sed congue. Donec nulla ipsum, tincidunt a augue maximus, pellentesque imperdiet lectus. Aenean posuere consequat libero, id efficitur quam dictum volutpat.</p><p>Donec mollis a lacus a pharetra. Nam facilisis enim erat, in scelerisque eros mollis quis. Aliquam erat volutpat. Nam vel nibh justo. Nunc vestibulum leo a ultricies malesuada. Proin quis volutpat sem. Morbi consequat lacinia pulvinar.</p>	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdc0e5538" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+            <div id="#single_image_a4e89e7c3b0009212ce608da792b59a0"  class="single-image ">
+                            <a href="https://kanchon-gharami.github.io/portfolio/wp-content/uploads/2018/04/1-1.jpg" class="lightbox">
+                    <img src="https://kanchon-gharami.github.io/portfolio/wp-content/uploads/2018/04/1-1.jpg" alt="image">
+                </a>
+                    </div>
+
+    
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6086fdc0e5c23" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<blockquote class="quote fw-quote-center fw-quote-md ">
+    Mauris lectus dolor, varius ut imperdiet nec, dignissim nec ligula. Cras posuere odio et finibus accumsan. Mauris in sem non arcu consectetur posuere sed quis justo. Sed turpis mauris, aliquet ac lacus nec, tempor condimentum justo.			<footer class="quote-author">
+			<span>
+									Edgar D. Wang							</span>
+		</footer>
+	</blockquote><p>Cras commodo, nulla a commodo sodales, nisl mauris interdum lectus, ac mattis lacus purus ut nunc. Fusce volutpat aliquam euismod. Aliquam pulvinar neque turpis, in tincidunt mi varius et. Curabitur vitae tempus mauris, porta dictum ante. Nam pellentesque et mauris a suscipit. Vivamus gravida erat nec elit ullamcorper, quis laoreet metus efficitur. Duis vulputate, mauris a auctor pretium, elit nisl eleifend nulla, non accumsan augue massa quis tellus. Aliquam at justo libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vestibulum mauris condimentum ultrices scelerisque. Fusce pulvinar cursus luctus. Cras dapibus placerat magna, quis euismod nisi consequat euismod. Curabitur finibus nisi at justo ultricies, nec congue metus rutrum. Quisque vulputate sollicitudin aliquam. Curabitur posuere auctor dapibus.</p>	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kanchon-gharami.github.io/portfolio/2018/04/06/how-to-make-a-wordpress-plugin-extensible/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
